@@ -21,6 +21,7 @@ The 7 python scripts used are in the Python folder, and their uses are listed be
 - score_60s_window.py & select_clean_60s_from_tail.py: Written when we initially tried using amplitude-against-time data to select 60-second training windows. We later switched to standard packet data because it was simpler to extract, easier to read, and avoided issues like large empty gaps in time.
 
 The raw data collected, as well as the processed data, was too large to be put on github. Instead, it is hosted on Hugging Face: https://huggingface.co/datasets/CrystalStarburst/CSIdata/tree/main
+
 There it contains 3 folders:
 - Raw_Data_by_Class: Raw CSI data in pcap format
 - fixed_packet_segments_w4000_s2000: Packet segments of all classes, with window width 4000 packets and window stride 2000 packets
