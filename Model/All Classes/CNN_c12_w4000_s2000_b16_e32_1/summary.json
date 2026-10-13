@@ -1,0 +1,9 @@
+{
+  "best_epoch": 1,
+  "best_val_macro_f1": 0.9672122762148337,
+  "test_accuracy": 0.8105939004815409,
+  "test_macro_f1": 0.7913154509443808,
+  "test_balanced_accuracy": 0.8264992521831428,
+  "training_time_sec": 39569.828468499996,
+  "confusion_matrix": "c:\\_WT\\_Aidan\\Software\\CSITraining\\Model\\CNN_c12_w4000_s2000_b16_e32\\confusion_matrix.npy"
+}

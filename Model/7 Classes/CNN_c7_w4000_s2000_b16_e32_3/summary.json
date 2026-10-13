@@ -1,0 +1,19 @@
+{
+  "best_epoch": 8,
+  "best_val_macro_f1": 0.8552875695732839,
+  "test_accuracy": 0.7988668555240793,
+  "test_macro_f1": 0.758848643437543,
+  "test_micro_f1s": [
+    0.8301886792452831,
+    0.48175182481751827,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "test_balanced_accuracy": 0.815668202764977,
+  "training_time_sec": 12039.893281000026,
+  "confusion_matrix": "c:\\_WT\\_Aidan\\Software\\CSITraining\\Model\\CNN_w4000_s2000_b16_e32\\confusion_matrix.npy",
+  "predictions": "c:\\_WT\\_Aidan\\Software\\CSITraining\\Model\\CNN_w4000_s2000_b16_e32\\test_predictions.csv"
+}
